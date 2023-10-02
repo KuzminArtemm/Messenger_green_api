@@ -1,0 +1,9 @@
+.conteiner {
+  height: 100vh;
+  background-color: #e1e0dd;
+}
+.header {
+  width: 100vw;
+  height: 17vh;
+  background-color: #00a884;
+}

@@ -1,0 +1,11 @@
+.conteiner {
+    display: flex;
+    justify-content: flex-end;
+    width: 100%;
+    height: 60px;
+    background-color: #f0f2f5;
+    border-left: 1px solid #ced6e0;
+  }
+  .dropdown {
+    margin-right: 10px;
+  }
